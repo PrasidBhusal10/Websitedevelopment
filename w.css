@@ -2,24 +2,41 @@
     margin:0;
     padding: 0%;
 }
-
+.logo{
+width: 20%;
+display: flex;
+justify-content: center;
+align-items: center;
+border:5px solid red;
+}
 .navbar{
     display: flex;
 }
 
 .nav-list{
 width: 50%;
+display: flex;
+align-items: center;
+background-color: gray;
+
 
 }
 
-.na-list li{
+.nav-list li{
+list-style: none;
+text-decoration: none;
+padding: 23px ;
 
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.na-list li a{
-
+.nav-list li a:hover{
+text-decoration: none;
+color: rgb(92, 83, 83);
 }
 .rightnav{
     width:50%;
     text-align: right;
+background-color: hotpink;
 
 }
+#de
