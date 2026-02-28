@@ -7,8 +7,11 @@ width: 20%;
 display: flex;
 justify-content: center;
 align-items: center;
-border:5px solid red;
+/* border:5px solid red; */
+font-family:initial ;
 }
+
+
 .navbar{
     display: flex;
 }
@@ -17,7 +20,7 @@ border:5px solid red;
 width: 50%;
 display: flex;
 align-items: center;
-background-color: gray;
+/* background-color: gray; */
 
 
 }
@@ -36,7 +39,50 @@ color: rgb(92, 83, 83);
 .rightnav{
     width:50%;
     text-align: right;
-background-color: hotpink;
+/* background-color: hotpink; */
+}
+
+.background{
+    background: rgba(0,0,0,0.7) url("web1.jpg");
+    background-position: 0%;
+    
+}
+
+.box-main{
+display: flex;
+justify-content: center;
+align-items: center;
+color: turquoise;
+font-size: 20px;
+font-family: monospace;
+font-weight:lighter;
+max-width: 50%;
+margin: auto;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    size: 20px;
+}
+.firstsection{
+    height: 200vh;
+}
+.firsthalf{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+.secondhalf{
+    width: 30%;
 
 }
-#de
+.secondhalf{
+width: 70%;
+border-radius: 4px;
+border-color: rgb(62, 133, 133);
+}
