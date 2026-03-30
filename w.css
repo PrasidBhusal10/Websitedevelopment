@@ -43,7 +43,7 @@ color: rgb(92, 83, 83);
 }
 
 .background{
-    background: rgba(0,0,0,0.7) url("web1.jpg");
+    background: rgba(0,0,8, 0.7) url("web1.jpg");
     background-position: 0%;
     
 }
