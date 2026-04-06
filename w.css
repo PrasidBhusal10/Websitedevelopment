@@ -75,7 +75,7 @@ margin: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 21px;
+    gap: 10px;
 }
 .secondhalf{
     width: 30%;
