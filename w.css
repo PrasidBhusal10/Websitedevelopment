@@ -33,7 +33,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 }
 .nav-list li a:hover{
 text-decoration: none;
-color: rgb(92, 84, 73);
+color: rgb(92, 83, 73);
 }
 .rightnav{
     width:49%;
