@@ -28,7 +28,7 @@ align-items: center;
 .nav-list li{
 list-style: none;
 text-decoration: none;
-padding: 21px;
+padding: 22px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .nav-list li a:hover{
