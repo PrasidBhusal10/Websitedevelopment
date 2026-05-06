@@ -6,7 +6,7 @@
 width: 22%;
 display: flex;
 justify-content: center;
-align-items: center;
+align-items: flex;
 /* border:12px solid red; */
 font-family:initial ;
 }
